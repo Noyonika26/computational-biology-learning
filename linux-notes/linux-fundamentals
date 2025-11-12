@@ -1,1 +1,10 @@
+## Linux Fundamentals
+Currently completing *Learning Linux Command Line* (LinkedIn Learning).  
+Topics covered so far:
+- Kernels and system architecture
+- Shell commands and terminal tools
+- Package management and software installation
+- Linux file system and permissions
+
+📄 Detailed notes can be found in [linux-notes/linux_fundamentals.md](linux-notes/linux_fundamentals.md)
 
