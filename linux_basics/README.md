@@ -88,4 +88,6 @@ Directory	Description
 - Terminal Usage: Open the Terminal application to work with the command-line interface, using basic commands like cd, mv, cp, and the man command for help documentation.
 
 ## 5. Building your skills 
-- 
+- There are many directions to expand your Linux skills, including system administration, development, and productivity apps.
+- Familiarity with the command line or shell is recommended.
+
