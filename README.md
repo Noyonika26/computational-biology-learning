@@ -1,6 +1,6 @@
 # 🧬 Computational Biology Learning Repository
 
-Hi, I'm **Noyonika Parulekar** — a biospecimen coordinator currently learning Linux, Git, and coding tools for biological data management and analysis.  
+Hi, I'm **Noyonika Parulekar** — currently learning Linux, Git, and coding tools for biological data management and analysis.  
 This repository documents my learning process as I build the foundational technical skills to transition from experimental biology to computational and data-driven research.
 
 ---
